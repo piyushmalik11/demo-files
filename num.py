@@ -7,3 +7,6 @@ def sub(a, b):
     print(a - b)
     
 sub(5, 2)
+
+def mul(a, b):
+    print(a * b)
